@@ -7,7 +7,7 @@ package SistemaGui;
 
 /**
  *
- * @author Español
+ * @author Gabriela
  */
 public class categoriaFrame extends javax.swing.JDialog {
 
